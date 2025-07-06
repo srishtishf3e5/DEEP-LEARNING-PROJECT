@@ -80,3 +80,8 @@ Model training and evaluation using TensorFlow
 Visual representation of predictions
 
 OUTPUT:
+<img width="857" height="567" alt="Image" src="https://github.com/user-attachments/assets/abc950f5-cf02-4f41-9f8e-72f89e5b8534" />
+
+<img width="755" height="557" alt="Image" src="https://github.com/user-attachments/assets/38225c8b-f37f-4a71-a6c5-c6324e9a441b" />
+
+<img width="1154" height="440" alt="Image" src="https://github.com/user-attachments/assets/bf9c6b2f-e77a-460b-aea1-a1474e136ba6" />
